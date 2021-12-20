@@ -5,6 +5,7 @@
 - 📫  You can reach me here and under my email: info@yeraysarmiento.com
 
 - 🕹  Some of the technologies I am familiar with: 
+
 Javascript | Typescript | React | Redux | Vue | Vuex | Sass | Figma | Jest | Git | Express | MongoDB | SOLID Principles
 
 <!---
