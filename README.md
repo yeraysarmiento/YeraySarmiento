@@ -6,7 +6,7 @@
 
 - 🕹  Some of the technologies I am familiar with: 
 
-Javascript | Typescript | React | Redux | Vue | Vuex | Sass | Figma | Jest | Git | Express | MongoDB | SOLID Principles
+      Javascript | Typescript | React | Redux | Vue | Vuex | Sass | Figma | Jest | Git | Express | MongoDB | SOLID Principles
 
 <!---
 YeraySarmiento/YeraySarmiento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
